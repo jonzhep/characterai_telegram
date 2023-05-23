@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "node_characterai": "^1.1.3",
+    "node-fetch": "^3.3.1",
+    "telegraf": "^3.40.0"
+  },
+  "name": "tgbot",
+  "version": "1.0.0",
+  "description": "Telegram chatbot using Character.Ai",
+  "main": "index.js",
+  "scripts": {
+    "install": "yarn",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "character.ai",
+    "telegram bot",
+    "chatbot"
+  ],
+  "author": "hehe",
+  "license": "ISC"
+}
